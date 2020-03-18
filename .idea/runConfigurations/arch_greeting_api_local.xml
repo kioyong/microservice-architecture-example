@@ -1,5 +1,5 @@
 <component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="arch-greeting-api-local" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+  <configuration default="false" name="arch-greeting-api-local" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" folderName="local-balance">
     <module name="arch-greeting-api" />
     <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.greeting.ArchGreetingApiApplication" />
     <option name="ACTIVE_PROFILES" value="local" />

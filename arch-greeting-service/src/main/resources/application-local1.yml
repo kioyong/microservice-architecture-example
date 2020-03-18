@@ -2,6 +2,9 @@
 server:
   port: 8081
 
-spring:
-  application:
-    name: arch-greeting-service-instance-one
+eureka:
+  client:
+    enabled: false
+
+instance:
+  name: ${spring.application.name}-one

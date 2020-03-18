@@ -9,3 +9,7 @@ spring:
   main:
     lazy-initialization: true
     allow-bean-definition-overriding: false
+
+logging:
+  level:
+    com.netflix.loadbalancer.LoadBalancerContext: DEBUG

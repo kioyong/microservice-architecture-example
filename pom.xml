@@ -13,6 +13,7 @@
         <module>arch-starter-parent</module>
         <module>arch-greeting-service</module>
         <module>arch-greeting-api</module>
+        <module>arch-eureka-server</module>
     </modules>
 
     <properties>
